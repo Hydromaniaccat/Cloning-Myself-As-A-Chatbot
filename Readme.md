@@ -6,4 +6,5 @@ All data and pretrained models have been excluded from the submission. If necess
 # Libraries
 - https://github.com/minimaxir/gpt-2-simple/blob/master/gpt_2_simple
 - https://github.com/huggingface/transformers
+- https://github.com/huggingface/transfer-learning-conv-ai
 
